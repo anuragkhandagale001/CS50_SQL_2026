@@ -11,10 +11,14 @@
   <ul>
     <li><a href="https://github.com/anuragkhandagale001/CS50_SQL_2026/tree/main/week0"><strong>Week 0 Querying</strong></a></li>
   <ul>
-    <li><a href="https://github.com/muhammedahmetsekerci/CS50-SQL/tree/main/Week%200%20Querying/cyberchase">Cyberchase</a></li>
-    <li><a href="https://github.com/muhammedahmetsekerci/CS50-SQL/tree/main/Week%200%20Querying/views">36 Views </a></li>
-    <li><a href="https://github.com/muhammedahmetsekerci/CS50-SQL/tree/main/Week%200%20Querying/views">36 Views </a></li>
-    <li><a href="https://github.com/muhammedahmetsekerci/CS50-SQL/tree/main/Week%200%20Querying/players">Players</a></li>
+    <li><a href="https://github.com/anuragkhandagale001/CS50_
+          SQL_2026/tree/main/week0/cyberchase">Cyberchase</a></li>
+    <li><a herf="https://github.com/anuragkhandagale001/CS50_
+          SQL_2026/tree/main/week0/normals">normals </a></li>
+    <li><a href="https://github.com/anuragkhandagale001/CS50_
+          SQL_2026/tree/main/week0/views">36 Views </a></li>
+    <li><a href="https://github.com/anuragkhandagale001/CS50_
+          SQL_2026/tree/main/week0/players">Players</a></li>
     <br/>
   </ul>
     <li><a href="https://github.com/muhammedahmetsekerci/CS50-SQL/blob/main/Week%201%20Relating/lec1"><strong>Week 1 Relating</strong></a></li>
