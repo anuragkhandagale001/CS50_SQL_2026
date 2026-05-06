@@ -38,4 +38,4 @@
 
 ### [Week 6: Scaling](https://github.com/anuragkhandagale001/CS50_SQL_2026/tree/main/week6)
 * [Sentimental Strategy](https://github.com/anuragkhandagale001/CS50_SQL_2026/tree/main/week6/sentimental-connect)
-* [Don't Mess with Texas](https://github.com/anuragkhandagale001/CS50_SQL_2026/tree/main/week6/dont-panic-python))
+* [Don't Mess with Texas](https://github.com/anuragkhandagale001/CS50_SQL_2026/tree/main/week6/dont-panic-python)
