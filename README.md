@@ -1,62 +1,43 @@
-# CS50's Introduction to Databases with SQL - 2024
+# CS50's Introduction to Databases with SQL - 2026
 
-  <ul>
-    <li><strong>Course Link</strong></li>
-    <ul>
-    <li><a href="https://cs50.harvard.edu/sql/2024/">CS50</a></li>
-    <li><a href="https://www.edx.org/learn/sql/harvard-university-cs50-s-introduction-to-databases-with-sql">EDX</a></li>
-  </ul>
-  </ul>
+### Course Links
+* [CS50 Official Site](https://cs50.harvard.edu/sql/2024/)
+* [edX Course Page](https://www.edx.org/learn/sql/harvard-university-cs50-s-introduction-to-databases-with-sql)
 
-  <ul>
-    <li><a href="https://github.com/anuragkhandagale001/CS50_SQL_2026/tree/main/week0"><strong>Week 0 Querying</strong></a></li>
-  <ul>
-    <li><a href="https://github.com/anuragkhandagale001/CS50_
-          SQL_2026/tree/main/week0/cyberchase">Cyberchase</a></li>
-    <li><a herf="https://github.com/anuragkhandagale001/CS50_
-          SQL_2026/tree/main/week0/normals">normals </a></li>
-    <li><a href="https://github.com/anuragkhandagale001/CS50_
-          SQL_2026/tree/main/week0/views">36 Views </a></li>
-    <li><a href="https://github.com/anuragkhandagale001/CS50_
-          SQL_2026/tree/main/week0/players">Players</a></li>
-    <br/>
-  </ul>
-    <li><a href="https://github.com/muhammedahmetsekerci/CS50-SQL/blob/main/Week%201%20Relating/lec1"><strong>Week 1 Relating</strong></a></li>
-    <ul>
-    <li><a href="https://github.com/muhammedahmetsekerci/CS50-SQL/tree/main/Week%201%20Relating/Packages%2C%20Please/packages">Packages, Please</a></li>
-    <li><a href="https://github.com/muhammedahmetsekerci/CS50-SQL/tree/main/Week%201%20Relating/DESE/dese">DESE</a></li>
-    <li><a href="https://github.com/muhammedahmetsekerci/CS50-SQL/tree/main/Week%201%20Relating/moneyball">Moneyball</a></li>
-      <br/>
-    </ul>
-    <li><a href="https://github.com/muhammedahmetsekerci/CS50-SQL/blob/main/Week%202%20Designing/lec2"><strong>Week 2 Designing</strong></a></li>
-    <ul>
-    <li><a href="https://github.com/muhammedahmetsekerci/CS50-SQL/tree/main/Week%202%20Designing/atl">ATL</a></li>
-    <li><a href="https://github.com/muhammedahmetsekerci/CS50-SQL/tree/main/Week%202%20Designing/connect">Happy to Connect</a></li>
-    <li><a href="https://github.com/muhammedahmetsekerci/CS50-SQL/tree/main/Week%202%20Designing/donuts">Union Square Donuts.</a></li>
-      <br/>
-  </ul>
-    <li><a href="https://github.com/muhammedahmetsekerci/CS50-SQL/blob/main/Week%203%20Writing/lec3"><strong>Week 3 Writing</strong></a></li>
-    <ul>
-    <li><a href="https://github.com/muhammedahmetsekerci/CS50-SQL/tree/main/Week%203%20Writing/dont-panic">Don't Panic!</a></li>
-    <li><a href="https://github.com/muhammedahmetsekerci/CS50-SQL/tree/main/Week%203%20Writing/meteorites">Meteorite Cleaning</a></li>
-      <br/>
-  </ul>
-    <li><a href="https://github.com/muhammedahmetsekerci/CS50-SQL/blob/main/Week%204%20Viewing/lec4"><strong>Week 4 Viewing</strong></a></li>
-    <ul>
-    <li><a href="https://github.com/muhammedahmetsekerci/CS50-SQL/tree/main/Week%204%20Viewing/census">Census Taker</a></li>
-    <li><a href="https://github.com/muhammedahmetsekerci/CS50-SQL/tree/main/Week%204%20Viewing/private">The Private Eye</a></li>
-    <li><a href="https://github.com/muhammedahmetsekerci/CS50-SQL/tree/main/Week%204%20Viewing/bnb">Bed and Breakfast</a></li>
-      <br/>
-  </ul>
-    <li><a href="https://github.com/muhammedahmetsekerci/CS50-SQL/blob/main/Week%205%20Optimizing/lec5"><strong>Week 5 Optimizing</strong></a></li>
-    <ul>
-    <li><a href="https://github.com/muhammedahmetsekerci/CS50-SQL/tree/main/Week%205%20Optimizing/snap">In a Snap</a></li>
-    <li><a href="https://github.com/muhammedahmetsekerci/CS50-SQL/tree/main/Week%205%20Optimizing/harvard">your.harvard</a></li>
-      <br/>
-  </ul>
-    <li><a href="https://github.com/muhammedahmetsekerci/CS50-SQL/blob/main/Week%206%20Scaling/lec6"><strong>Week 6 Scaling</strong></a></li>
-    <ul>
-    <li><a href="https://github.com/muhammedahmetsekerci/CS50-SQL/tree/main/Week%206%20Scaling/dont-panic-python">Don't Panic! (Sentimental) in Python or Java</a></li>
-    <li><a href="https://github.com/muhammedahmetsekerci/CS50-SQL/tree/main/Week%206%20Scaling/deep">From the Deep</a></li>
-    <li><a href="https://github.com/muhammedahmetsekerci/CS50-SQL/tree/main/Week%206%20Scaling/Happy%20to%20Connect%20(Sentimental)/sentimental-connect">Happy to Connect (Sentimental)</a></li>
- 
+---
+
+### Progress Tracker
+
+#### [Week 0: Querying](https://github.com/anuragkhandagale001/CS50_SQL_2026/tree/main/week0)
+* [Cyberchase](https://github.com/anuragkhandagale001/CS50_SQL_2026/tree/main/week0/cyberchase)
+* [Normals](https://github.com/anuragkhandagale001/CS50_SQL_2026/tree/main/week0/normals)
+* [36 Views](https://github.com/anuragkhandagale001/CS50_SQL_2026/tree/main/week0/views)
+* [Players](https://github.com/anuragkhandagale001/CS50_SQL_2026/tree/main/week0/players)
+
+#### [Week 1: Relating](https://github.com/anuragkhandagale001/CS50_SQL_2026/tree/main/week1)
+* Packages, Please
+* DESE
+* Moneyball
+
+#### [Week 2: Designing](https://github.com/anuragkhandagale001/CS50_SQL_2026/tree/main/week2)
+* ATL
+* Happy to Connect
+* Union Square Donuts
+
+#### [Week 3: Writing](https://github.com/anuragkhandagale001/CS50_SQL_2026/tree/main/week3)
+* Don't Panic!
+* Meteorite Cleaning
+
+#### [Week 4: Viewing](https://github.com/anuragkhandagale001/CS50_SQL_2026/tree/main/week4)
+* Census Taker
+* The Private Eye
+* Bed and Breakfast
+
+#### [Week 5: Optimizing](https://github.com/anuragkhandagale001/CS50_SQL_2026/tree/main/week5)
+* In a Snap
+* Harvard Art Museums
+* Your Companions
+
+#### [Week 6: Scaling](https://github.com/anuragkhandagale001/CS50_SQL_2026/tree/main/week6)
+* Sentimental Strategy
+* Don't Mess with Texas
