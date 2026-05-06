@@ -12,7 +12,8 @@
     <li><a href="https://github.com/muhammedahmetsekerci/CS50-SQL/blob/main/Week%200%20Querying/lec0"><strong>Week 0 Querying</strong></a></li>
   <ul>
     <li><a href="https://github.com/muhammedahmetsekerci/CS50-SQL/tree/main/Week%200%20Querying/cyberchase">Cyberchase</a></li>
-    <li><a href="https://github.com/muhammedahmetsekerci/CS50-SQL/tree/main/Week%200%20Querying/views">36 Views or Normals</a></li>
+    <li><a href="https://github.com/muhammedahmetsekerci/CS50-SQL/tree/main/Week%200%20Querying/views">36 Views </a></li>
+    <li><a href="https://github.com/muhammedahmetsekerci/CS50-SQL/tree/main/Week%200%20Querying/views">36 Views </a></li>
     <li><a href="https://github.com/muhammedahmetsekerci/CS50-SQL/tree/main/Week%200%20Querying/players">Players</a></li>
     <br/>
   </ul>
